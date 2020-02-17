@@ -1,1 +1,1 @@
-echo "This is the powerpoint"
+echo "This is the Multimedia Powerpoint"
